@@ -6,4 +6,4 @@
 
 [Defence]: https://1drv.ms/v/s!AnwJpS7dTX1ug6oIDXQm59dHHBNbkQ?e=6sgaMT
 [Project]: AD_Tomsk_Federal_University/vkr_ad801_varavin.ipynb
-[Diplom]: //agvaravin/agvaravin/blob/main/pix/pche.jpg
+[Diplom]: AD_Tomsk_Federal_University/vkr_ad801_varavin.ipynb
